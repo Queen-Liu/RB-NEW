@@ -2573,6 +2573,7 @@ body.landing-page {
 .landing-page .nav>li.active {
   border: none;
   background: inherit;
+  color: #3385ff
 }
 
 .landing-page .nav>li>a {

@@ -6,15 +6,18 @@ $(document).ready(function() {
     resGetPath: 'static/locales/__lng__.json'
   };
 
+  
   var translate = function() {
     $('.i18container').i18n();
     $('#i18_navbar').i18n();
     $('#i18_about_me').i18n();
     $('#i18_skills').i18n();
-    $('#i18_banner').i18n();
+    $('#i18_zdybanner').i18n();
+    // $('#i18_NewsBanner').i18n();
     $('#i18_projects').i18n();
     $('#i18_career').i18n();
     $('#i18_blog').i18n();
+    $('#i18_blogcopy').i18n();
     $('#i18_link').i18n();
   };
 
