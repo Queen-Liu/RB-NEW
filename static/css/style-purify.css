@@ -2018,7 +2018,9 @@ ul.clear-list:first-child {
   line-height: 18px;
 }
 
-.social-comment .social-comment,.vote-info,.vote-title {
+.social-comment .social-comment
+/*,.vote-info,.vote-title  */
+{
   margin-left: 45px;
 }
 
@@ -2936,14 +2938,17 @@ body.landing-page {
     display: none;
   }
 
-  .landing-page .navbar .navbar-header {
-    display: block;
-    float: none;
-  }
+  /* .landing-page .navbar .navbar-header { */
+    /* display: block; */
+    /* float: none; */
+    /* float: left; */
+    /* width: 100%; */
+  /* } */
 
   .landing-page .navbar .navbar-header .navbar-toggle {
     background-color: #fff;
     padding: 9px 10px;
     border: none;
+    float: right;
   }
 }
