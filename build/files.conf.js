@@ -34,7 +34,7 @@ module.exports = {
             'node_modules/pace-progress/pace.js',
             'node_modules/wowjs/dist/wow.js',
             'static/js/scroll.js',
-            'static/js/count.js'
+            // 'static/js/count.js'
         ]
     }, {
         name: 'i18next page',
@@ -75,7 +75,7 @@ module.exports = {
             'node_modules/pace-progress/pace.js',
             'node_modules/wowjs/dist/wow.js',
             'static/js/scroll.js',
-            'static/js/count.js'
+            // 'static/js/count.js'
         ]
     }, {
         name: 'blog pages\' jPage',
