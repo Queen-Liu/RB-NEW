@@ -12,7 +12,8 @@
     "blogcopy": "新闻新闻",
     "my_banner": "videovideo",
     "contactus": "联系我们",
-    "link": "友情链接"
+    "link": "友情链接",
+    "register": "注册"
   },
   "about_me":{
     "video": "关于我们 - 视频",
@@ -79,6 +80,10 @@
     "contactus": "联系我们",
     "view": "次访问",
     "BRFoundationName": "BR (BitReserve) 基金会"
+  },
+  "register":{
+    "registerTl": "注册",
+    "ComingSoon": "敬请期待..."
   }
 
 }

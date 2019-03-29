@@ -19,6 +19,7 @@ $(document).ready(function() {
     $('#i18_blog').i18n();
     $('#i18_blogcopy').i18n();
     $('#i18_link').i18n();
+    $('#i18_register').i18n();
   };
 
   $("[id^=set_lang]").each(function() {

@@ -11,7 +11,8 @@
     "news": "Newsroom",
     "blogcopy": "NewsroomNewsroom",
     "contactus": "Contact Us",
-    "link": "Link"
+    "link": "Link",
+    "register": "Register"
   },
   "about_me":{
     "video": "About us - Video",
@@ -77,7 +78,9 @@
     "contactus": "Contact Us",
     "view": "views",
     "BRFoundationName": " BR (BitReserve) Foundation"
-    
+  },
+  "register":{
+    "registerTl": "Register",
+    "ComingSoon": "Coming Soon..."
   }
-
 }
