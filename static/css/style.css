@@ -1,5 +1,5 @@
-@import url(./open_sans.min.css);
-@import url(./roboto.min.css);
+/* @import url(./open_sans.min.css);
+@import url(./roboto.min.css); */
 .animation-text-box p,
 .faq-item .tag-item,
 .file-manager h5,
@@ -7350,7 +7350,8 @@ body.landing-page {
     width: 60px;
     height: 1px;
     margin: 60px auto 0;
-    border-bottom: 2px solid #3385FF
+    /* border-bottom: 2px solid #3385FF */
+    border-bottom: 2px solid pink;
 }
 
 .landing-page .navbar-wrapper {
@@ -7450,7 +7451,8 @@ body.landing-page {
     padding-top: 0;
     padding-bottom: 0;
     border-bottom: 1px solid #e7eaec;
-    border-radius: 0
+    border-radius: 0;
+    background: #020242;
 }
 
 .landing-page .nav>li.active {
@@ -7489,12 +7491,12 @@ body.landing-page {
 }
 
 .landing-page .header-back.one {
-    background: url(../img/landing/header_one.jpg) 50% 0 no-repeat
-}
-
-.landing-page .header-back.two {
-    background: url(../img/landing/header_two.jpg) 50% 0 no-repeat
-}
+    background: url(/static/assets/img/landing/header_one.jpg) 50% 0 no-repeat;
+  }
+  
+  .landing-page .header-back.two {
+    background: url(/static/assets/img/landing/header_two.jpg) 50% 0 no-repeat;
+  }
 
 .landing-page .carousel {
     height: 470px
