@@ -12,7 +12,7 @@
     "blogcopy": "NewsroomNewsroom",
     "contactus": "Contact Us",
     "link": "Link",
-    "register": "Register"
+    "register": "APP"
   },
   "about_me":{
     "video": "About us - Video",
@@ -80,6 +80,8 @@
     "BRFoundationName": " BR (BitReserve) Foundation"
   },
   "register":{
+    "dwTl": "Download the app by scanning the QR Code below:",
+    "IOSAndrord": "iOS / Android",
     "registerTl": "Register",
     "ComingSoon": "Coming Soon..."
   }

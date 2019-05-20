@@ -13,7 +13,7 @@
     "my_banner": "videovideo",
     "contactus": "联系我们",
     "link": "友情链接",
-    "register": "注册"
+    "register": "下载"
   },
   "about_me":{
     "video": "关于我们 - 视频",
@@ -82,8 +82,9 @@
     "BRFoundationName": "BR (BitReserve) 基金会"
   },
   "register":{
+    "dwTl": "通过扫描以下二维码下载应用程序:",
+    "IOSAndrord": "苹果/安卓",
     "registerTl": "注册",
     "ComingSoon": "敬请期待..."
   }
-
 }
