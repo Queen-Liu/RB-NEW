@@ -19,7 +19,7 @@
     "videovideo": "About us - VideoVideo",
     "about_me": "About BR (BitReserve) Foundation",
     "BRFoundation": "BR (BitReserve) Foundation",
-    "des": "BitReserve (a.k.a BR) is a Singapore based Foundation registered on March 1, 2019. BR is a civil oriented, multi-nation crypto currency organization, committed to breaking the monopoly of traditional centralized cooperations in the financial sector, and to satisfy end users need in financial applications by providing them a more fair, more convenient, and more secure environment. The core of the BR Foundation is to establish and maintain a global stable crypto currency, BRUSD, and to develop BRUSD supporters on a global scale to make BRUSD the most influencial stable coin in the world, which can be further utilized by global end users as a secure and stable financial application tool."
+    "des": "BitReserve (a.k.a BR) is a Singapore based Foundation registered on April, 2019. BR is a civil oriented, multi-nation crypto currency organization, committed to breaking the monopoly of traditional centralized cooperations in the financial sector, and to satisfy end users need in financial applications by providing them a more fair, more convenient, and more secure environment. The core of the BR Foundation is to establish and maintain a global stable crypto currency, BRUSD, and to develop BRUSD supporters on a global scale to make BRUSD the most influencial stable coin in the world, which can be further utilized by global end users as a secure and stable financial application tool."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -54,9 +54,12 @@
     "college_job": "Student",
 
     "BR_registered": "BitReserve Foundation Registered",
-    "registered-des": "BitReserve (a.k.a BR) is a Singapore based Foundation registered on March 1, 2019.",
+    "registered-des": "BitReserve (a.k.a BR) is a Singapore based Foundation registered on April, 2019.",
     "project_preparation": "Project preparation",
     "program_landing": "Program Landing",
+    "registered_time": "April, 2019",
+    "preparation_time": "February, 2019",
+    "landing_time": "January, 2019",
     "program_landingDes": "Business model readjusting, brand & product positioning and program landing."
   },
   "blog":{

@@ -20,7 +20,7 @@
     "videovideo": "关于我们 - 视频视频",
     "about_me": "关于BR(BitReserve)基金会",
     "BRFoundation": "BR(BitReserve)基金会",
-    "des": "BitReserve基金会简称BR基金会，于2019年3月1日在新加坡注册成立。是全球多国民间组织联合成立的数字货币基金组织，致力于打破传统中心化金融领域的垄断地位，为用户提供更公平，便捷，安全的民间金融应用需求，BR基金会的核心主要为建立全球稳定的数字货币BRUSD, 在全球各地发展BRUSD的支持者，把BRUSD打造成为全球最具影响力的稳定数字货币，为世界各地支持者提供安全稳定的金融应用工具。"
+    "des": "BitReserve基金会简称BR基金会，于2019年4月在新加坡注册成立。是全球多国民间组织联合成立的数字货币基金组织，致力于打破传统中心化金融领域的垄断地位，为用户提供更公平，便捷，安全的民间金融应用需求，BR基金会的核心主要为建立全球稳定的数字货币BRUSD, 在全球各地发展BRUSD的支持者，把BRUSD打造成为全球最具影响力的稳定数字货币，为世界各地支持者提供安全稳定的金融应用工具。"
   },
   "skills":{
     "my_skills": "我的技能"
@@ -55,9 +55,12 @@
     "college_job": "学生",
 
     "BR_registered": "BitReserve基金会成立",
-    "registered-des": "BitReserve基金会简称BR基金会，于2019年3月1日在新加坡注册成立.",
+    "registered-des": "BitReserve基金会简称BR基金会，于2019年4月在新加坡注册成立.",
     "project_preparation": "项目筹备",
     "program_landing": "项目准备",
+    "registered_time": "2019年4月",
+    "preparation_time": "2019年2月",
+    "landing_time": "2019年1月",
     "program_landingDes": "修整商业模式，品牌产品定位和落地方案"
     
   },
