@@ -1,8 +1,8 @@
 {
-  "website":{
+  "website": {
     "title": "BR(BitReserve) Foundation"
   },
-  "nav":{
+  "nav": {
     "home": "Home",
     "about_me": "About",
     "skills": "Skills",
@@ -14,17 +14,17 @@
     "link": "Link",
     "register": "APP"
   },
-  "about_me":{
+  "about_me": {
     "video": "About us - Video",
     "videovideo": "About us - VideoVideo",
     "about_me": "About BR (BitReserve) Foundation",
     "BRFoundation": "BR (BitReserve) Foundation",
     "des": "BitReserve (a.k.a BR) is a Singapore based Foundation registered on April, 2019. BR is a civil oriented, multi-nation crypto currency organization, committed to breaking the monopoly of traditional centralized cooperations in the financial sector, and to satisfy end users need in financial applications by providing them a more fair, more convenient, and more secure environment. The core of the BR Foundation is to establish and maintain a global stable crypto currency, BRUSD, and to develop BRUSD supporters on a global scale to make BRUSD the most influencial stable coin in the world, which can be further utilized by global end users as a secure and stable financial application tool."
   },
-  "skills":{
+  "skills": {
     "my_skills": "My Skills"
   },
-  "projects":{
+  "projects": {
     "my_projects": "Projects",
     "saplatform": "BitReserve (a.k.a BR) is a Singapore based Foundation registered.",
     "jalpc": "BitReserve (a.k.a BR) is a Singapore based Foundation registered.",
@@ -34,7 +34,7 @@
     "familycode": "BitReserve (a.k.a BR) is a Singapore based Foundation registered.",
     "ztool": "BitReserve (a.k.a BR) is a Singapore based Foundation registered."
   },
-  "career":{
+  "career": {
     "my_career": "Development History",
     "nextcode": "Nextcode",
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
@@ -62,30 +62,32 @@
     "landing_time": "January, 2019",
     "program_landingDes": "Business model readjusting, brand & product positioning and program landing."
   },
-  "blog":{
+  "blog": {
     "my_blog": "Newsroom"
   },
-  "blogcopy":{
+  "blogcopy": {
     "my_blogg": "Newsroom1111"
   },
-  "zdybanner":{
+  "zdybanner": {
     "banner_des01": "BR (BitReserve) Foundation",
     "banner_des02": "Which can be further utilized by global end users as a secure and stable financial application tool."
   },
-  "NewsBanner":{
+  "NewsBanner": {
     "NewsBanner_des01": "BR (BitReserve) Foundation",
     "NewsBanner_des02": "Which can be further utilized by global end users as a secure and stable financial application tool."
   },
-  "link":{
+  "link": {
     "link": "Link",
     "contactus": "Contact Us",
     "view": "views",
     "BRFoundationName": " BR (BitReserve) Foundation"
   },
-  "register":{
+  "register": {
     "dwTl": "Download the app by scanning the QR Code below:",
     "IOSAndrord": "iOS / Android",
+    "IOS": "iOS",
+    "Andrord": "Android",
     "registerTl": "Register",
-    "ComingSoon": "Coming Soon..."
+    "ComingSoon": "New app version coming soon"
   }
 }

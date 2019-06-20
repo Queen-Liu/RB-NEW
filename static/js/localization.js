@@ -3,10 +3,9 @@ $(document).ready(function() {
     lng: 'en',
     getAsync: true,
     fallbackLng: 'en',
-    resGetPath: 'static/locales/__lng__.json'
+    resGetPath: 'static/locales/__lng__.json?d=' + new Date(),
   };
 
-  
   var translate = function() {
     $('.i18container').i18n();
     $('#i18_navbar').i18n();
@@ -22,7 +21,7 @@ $(document).ready(function() {
     $('#i18_register').i18n();
   };
 
-  $("[id^=set_lang]").each(function() {
+  $('[id^=set_lang]').each(function() {
     var $this = $(this);
     $this.on('click', function() {
       i18n.setLng($this.data('locale'), translate);
