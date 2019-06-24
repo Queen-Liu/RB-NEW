@@ -88,6 +88,7 @@
     "IOS": "iOS",
     "Andrord": "Android",
     "registerTl": "Register",
-    "ComingSoon": "New app version coming soon"
+    "ComingSoon": "New app version coming soon",
+    "ComingSoonNew": "The new version will be coming soon."
   }
 }
